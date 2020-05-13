@@ -15,8 +15,8 @@ class FromTo:
         Calculates distance between 2 geographic points
 
         Parameters:
-            self.A - python dictionary containin lat, long information about point A
-            self.B - python dictionary containin lat, long information about point B
+            self.A - python dictionary containing lat, long information about point A
+            self.B - python dictionary containing lat, long information about point B
 
         Returns:
             distance -- distance between these 2 geo-points (in meters)
